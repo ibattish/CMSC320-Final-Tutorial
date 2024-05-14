@@ -20,8 +20,8 @@ Throughout this tutorial we will analyze a variety of factors, and how they pert
 
 To learn more about drinking water crises in the U.S. please visit these links: 
 - [Why American Cities are Struggling to Supply Safe Drinking Water](https://www.pbs.org/newshour/show/why-american-cities-are-struggling-to-supply-safe-drinking-water)
-- https://www.npr.org/sections/thetwo-way/2016/04/20/465545378/lead-laced-water-in-flint-a-step-by-step-look-at-the-makings-of-a-crisis
-- https://www.theatlantic.com/national/archive/2014/01/watch-west-virginia-man-set-tap-water-fire-after-local-chemical-spill/356920/
+- [Lead Laced Water in Flint a Step-by-Step Look at the Makings of a Crisis](https://www.npr.org/sections/thetwo-way/2016/04/20/465545378/lead-laced-water-in-flint-a-step-by-step-look-at-the-makings-of-a-crisis)
+- [Watch West Virginia Man Set Tap Water Fire After Local Chemical Spill](https://www.theatlantic.com/national/archive/2014/01/watch-west-virginia-man-set-tap-water-fire-after-local-chemical-spill/356920/)
 
 Picking out variables I think may be fun to use, looking at the tutorials we may want to do like 5-7 or smth
 - Democrat vote share in 2016
