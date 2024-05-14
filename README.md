@@ -1,7 +1,6 @@
-# CMSC320 Final Tutorial 
 # By: Isabella Battish, Janet Choi, and Sarah Hwang
 
-Data From: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DFB6NG
+[Link to Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DFB6NG)
 
 (Discussion of why our topic is important and research questions/goals and literature review)
 
@@ -19,8 +18,8 @@ We hope that this walkthrough will show insights on the U.S. drinking water infr
 
 Throughout this tutorial we will analyze a variety of factors, and how they pertain to drinking water. (MORE ABOUT VARIABLES WE'LL ANALYZE HERE).
 
-To learn more about drinking water crises in the U.S. please visit these links:
-- https://www.pbs.org/newshour/show/why-american-cities-are-struggling-to-supply-safe-drinking-water
+To learn more about drinking water crises in the U.S. please visit these links: 
+- [Why American Cities are Struggling to Supply Safe Drinking Water](https://www.pbs.org/newshour/show/why-american-cities-are-struggling-to-supply-safe-drinking-water)
 - https://www.npr.org/sections/thetwo-way/2016/04/20/465545378/lead-laced-water-in-flint-a-step-by-step-look-at-the-makings-of-a-crisis
 - https://www.theatlantic.com/national/archive/2014/01/watch-west-virginia-man-set-tap-water-fire-after-local-chemical-spill/356920/
 
