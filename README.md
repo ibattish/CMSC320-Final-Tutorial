@@ -1,4 +1,4 @@
-By: Isabella Battish, Janet Choi, and Sarah Hwang
+# By: Isabella Battish, Janet Choi, and Sarah Hwang
 
 [Link to Data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DFB6NG)
 
